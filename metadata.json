@@ -1,0 +1,6 @@
+{
+  "name": "Wali Santri Al-Fatih",
+  "description": "Aplikasi wali santri untuk memantau perkembangan, akademik, perizinan, dan pembayaran santri di Pondok Pesantren Al-Fatih Assalafi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
